@@ -1,0 +1,14 @@
+*{
+    background-image: url(../Imagens/tecnico\ montando\ ar.svg);
+}
+.container_principal{
+    border: solid;
+    height: 100vh;
+    width: 100vw;
+   
+    
+}
+.img_ar{
+    height: 30px;
+    width: 38px;
+}
