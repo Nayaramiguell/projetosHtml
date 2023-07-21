@@ -1,14 +1,17 @@
-*{
-    background-image: url(../Imagens/tecnico\ montando\ ar.svg);
+
+.body{
+    background-image: url(./tecnico.svg);
+    background-repeat: no-repeat;
+    display: flex;
+ 
 }
-.container_principal{
-    border: solid;
-    height: 100vh;
-    width: 100vw;
-   
-    
+
+.footer{
+    display: flex;
+    align-items: flex-end;
 }
-.img_ar{
-    height: 30px;
-    width: 38px;
+
+.div_serviços{
+    display: flex;
+    flex-direction: column;
 }
